@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trabajo 2</string>
+    <string name="conectar">CONECTAR</string>
+    <string name="blutu">Bluetooth: Activado</string>
+    <string name="celu3">Iphone 8</string>
+    <string name="celu2">Samsung Galaxy A06</string>
+    <string name="celu">Huawei p30 lite</string>
+    <string name="textoblutu">Bluetooth</string>
+    <string name="atras"><![CDATA[< Atras]]></string>
+</resources>
