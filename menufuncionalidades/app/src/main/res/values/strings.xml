@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trabajo</string>
+    <string name="textview">TextView</string>
+    <string name="paraAtras">&lt; Atras</string>
+    <string name="energia">kWh</string>
+    <string name="numero">60</string>
+    <string name="consumo">Ver evolucion del consumo</string>
+    <string name="datos">Refrescar los datos</string>
+    <string name="costo">Ver costo aproximado</string>
+</resources>
